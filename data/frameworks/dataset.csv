@@ -1,5 +1,5 @@
 Category,Name,URL,Description
-Awesome CSV Tools,NimbleText/Live,https://NimbleText.com/Live,"Use patterns to manipulate CSV; the world's simplest code generator"
+a,NimbleText/Live,https://NimbleText.com/Live,"Use patterns to manipulate CSV; the world's simplest code generator"
 Awesome CSV Tools,PapaParse,https://www.papaparse.com,"A powerful in-browser CSV parser"
 Awesome CSV Tools,CSVKit,http://csvkit.readthedocs.org/en/0.7.3/,"CSV utilities that includes csvsql / csvgrep / csvstat and more"
 Awesome CSV Tools,XSV,https://github.com/BurntSushi/xsv,"A fast CSV command-line toolkit written in Rust"
